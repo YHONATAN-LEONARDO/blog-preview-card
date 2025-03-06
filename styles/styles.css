@@ -25,6 +25,7 @@ body {
   width: 98%;
   border-radius: 20px;
   box-shadow: 10px 10px 0 var(--Gray-950);
+  border: 2px solid var(--Gray-950);
 }
 @media (min-width: 1440px) {
   .contenedor {
